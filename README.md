@@ -28,10 +28,9 @@ Course website for CSE 322 Web Page Programming, Fall 2014, CSUSB
 
 - Android SDK
 - Mobile apps based on Web technologies.
-- Cloud services
 
-## Web servers
-
+## Cloud services
+- Web servers
 - Database servers
 - Web-based IDEs
 - Version control
