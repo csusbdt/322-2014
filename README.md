@@ -7,7 +7,7 @@ Course website for CSE 322 Web Page Programming, Fall 2014, CSUSB
 - How browsers retrieve, initialize and render web pages.
 - Overview of the major browsers.
 - Developer tools built into browsers.
-    - [Dev Tools Tutorial][devtools]
+    - [Dev Tools Tutorial](http://discover-devtools.codeschool.com/)
 
 ## CSS
 
@@ -33,13 +33,10 @@ Course website for CSE 322 Web Page Programming, Fall 2014, CSUSB
 ## Cloud services
 - Web servers
 - Web-based IDEs
-    - [codenvy]
-    - [koding]
+    - [codenvy](https://codenvy.com/)
+    - [koding](https://koding.com/)
 - Version control
+    - Git
 - Authentication service providers
-
-
-[devtools] : http://discover-devtools.codeschool.com/
-[codenvy]  : https://codenvy.com/
-[koding]   : https://koding.com/
-
+    - Facebook
+    - Google
